@@ -1,0 +1,9 @@
+.ipynb_checkpoints/
+annotations/
+checkpoints/
+train2014/
+TF2.0/
+activate/
+weights/
+
+
